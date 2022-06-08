@@ -1,24 +1,31 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
 import './App.css';
+import { Art } from './components/Art';
+import { ArtT } from './components/ArtT';
+import { BlogsJ } from './components/BlogsJ';
+import { BlogsT } from './components/BlogsT';
+import { Design } from './components/Design';
+import { DesignT } from './components/DesignT';
+import { ProfileOne } from './components/ProfileOne';
+import { ProfileTwo } from './components/ProfileTwo';
+import { Home } from './routes/Home';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Routes>
+      <Route path='/' element={<Home/>}></Route>
+      <Route path='/art' element={<Art/>}></Route>
+      <Route path='/artT' element={<ArtT/>}></Route>
+      <Route path='/design' element={<Design/>}></Route>
+      <Route path='/designT' element={<DesignT/>}></Route>
+      <Route path='/blogsJ' element={<BlogsJ/>}></Route>
+      <Route path='/blogsT' element={<BlogsT/>}></Route>
+      <Route path='/profileOne' element={<ProfileOne/>}></Route>
+      <Route path='/profileTwo' element={<ProfileTwo/>}></Route>
+    </Routes>
+    </>
   );
 }
 
