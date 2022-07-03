@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/internetart/static/css/main.69084c4f.css",
-    "main.js": "/internetart/static/js/main.6a8edf9d.js",
+    "main.js": "/internetart/static/js/main.b2ee8217.js",
     "static/media/wireframe1.jpg": "/internetart/static/media/wireframe1.13e8cdc2ecf78aa7bb5f.jpg",
     "static/media/wireframe2.jpg": "/internetart/static/media/wireframe2.59eee4a3bb9b78e3b640.jpg",
     "static/media/woolworths.jpg": "/internetart/static/media/woolworths.93ab10db65c85d2d0805.jpg",
@@ -15,10 +15,10 @@
     "static/media/Thabie.png": "/internetart/static/media/Thabie.4c7afa37f479c72203d6.png",
     "index.html": "/internetart/index.html",
     "main.69084c4f.css.map": "/internetart/static/css/main.69084c4f.css.map",
-    "main.6a8edf9d.js.map": "/internetart/static/js/main.6a8edf9d.js.map"
+    "main.b2ee8217.js.map": "/internetart/static/js/main.b2ee8217.js.map"
   },
   "entrypoints": [
     "static/css/main.69084c4f.css",
-    "static/js/main.6a8edf9d.js"
+    "static/js/main.b2ee8217.js"
   ]
 }
