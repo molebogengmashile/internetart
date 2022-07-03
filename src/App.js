@@ -14,8 +14,8 @@ import { Home } from './routes/Home';
 function App() {
   return (
     <>
-    <Routes>
-      <Route path='/' element={<Home/>}></Route>
+    <Routes Basename={process.env.PUBLIC_URL}>
+      <Route path='/internetart' element={<Home/>}></Route>
       <Route path='/art' element={<Art/>}></Route>
       <Route path='/artT' element={<ArtT/>}></Route>
       <Route path='/design' element={<Design/>}></Route>
