@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/internetart/static/css/main.69084c4f.css",
-    "main.js": "/internetart/static/js/main.b2ee8217.js",
+    "main.css": "/internetart/static/css/main.a87c4ba0.css",
+    "main.js": "/internetart/static/js/main.4dbcbaeb.js",
     "static/media/wireframe1.jpg": "/internetart/static/media/wireframe1.13e8cdc2ecf78aa7bb5f.jpg",
     "static/media/wireframe2.jpg": "/internetart/static/media/wireframe2.59eee4a3bb9b78e3b640.jpg",
     "static/media/woolworths.jpg": "/internetart/static/media/woolworths.93ab10db65c85d2d0805.jpg",
@@ -9,16 +9,18 @@
     "static/media/Blm.jpg": "/internetart/static/media/Blm.91046e1da0f0a1696cf7.jpg",
     "static/media/Policecrimes.jpg": "/internetart/static/media/Policecrimes.ca2f6a881b2b826b4150.jpg",
     "static/media/TheOffice.jpg": "/internetart/static/media/TheOffice.4e2468355092ae5599da.jpg",
+    "static/media/Border.png - Copy.png": "/internetart/static/media/Border.png - Copy.14d58e574fffb9ff056f.png",
     "static/media/people.jpg": "/internetart/static/media/people.32dbac8321c53877494c.jpg",
+    "static/media/Game.png": "/internetart/static/media/Game.22bec973b555d86fa7d2.png",
     "static/media/WhiteBLM.jpg": "/internetart/static/media/WhiteBLM.2e4ad3118f9c5c64c719.jpg",
     "static/media/ukraine.jpg": "/internetart/static/media/ukraine.e5341b5bead86e7eba34.jpg",
     "static/media/Thabie.png": "/internetart/static/media/Thabie.4c7afa37f479c72203d6.png",
     "index.html": "/internetart/index.html",
-    "main.69084c4f.css.map": "/internetart/static/css/main.69084c4f.css.map",
-    "main.b2ee8217.js.map": "/internetart/static/js/main.b2ee8217.js.map"
+    "main.a87c4ba0.css.map": "/internetart/static/css/main.a87c4ba0.css.map",
+    "main.4dbcbaeb.js.map": "/internetart/static/js/main.4dbcbaeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.69084c4f.css",
-    "static/js/main.b2ee8217.js"
+    "static/css/main.a87c4ba0.css",
+    "static/js/main.4dbcbaeb.js"
   ]
 }
