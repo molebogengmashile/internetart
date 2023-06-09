@@ -18,7 +18,7 @@ export const BlogsT = () => {
             from different parts of the world. The newspapers all have animated gifs spread-out throughout the pages. The Frankfurter Allgemeine Zeitung
              paper has animated roses, the Daily Jang paper has colorful balls, the USA TODAY paper has American flags, the Wall Street Journal Europe 
              paper has different wild animals and lastly the Dajiyuan has street fighter characters on it.
-            Right below the papers are links to the real online versions of these papers that exist yesterda. 
+            Right below the papers are links to the real online versions of these papers that exist yesterday. 
           <br></br>
           <br></br>
 
